@@ -1,2 +1,2 @@
-hello=input(name:)
-print(hello)
+hello=input("name:")
+print
