@@ -3,3 +3,5 @@
 qwerty
 # new line
 sheeps
+git conflict
+123
